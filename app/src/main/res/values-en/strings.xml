@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TallerClase</string>
+    <string name="adidas">adidas</string>
+    <string name="hombre">men</string>
+    <string name="error1">Enter the amount</string>
+    <string name="marca">brand</string>
+    <string name="nike">nike</string>
+    <string name="puma">puma</string>
+    <string name="mujer">women</string>
+    <string name="sexo">sex</string>
+    <string name="validar">validate</string>
+    <string name="Tzapato">Type of shoes</string>
+    <string name="valor">value</string>
+    <string name="zapatilla">shoe</string>
+    <string name="clasico">classic</string>
+    <string name="cantidad">quantity</string>
+</resources>
